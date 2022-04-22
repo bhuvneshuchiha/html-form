@@ -1,0 +1,38 @@
+body{
+  background-color: #FFF7BC;
+  line-height: 2;
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+.form {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #CCC;
+  padding: 30px;
+  background-color: white;
+  border-radius: 1em;
+  width: 70%;
+  margin: auto;
+}
+
+.btn {
+  margin-top: 20px;
+  font-size: 20px;
+  padding : 1rem;
+  margin-left: 40%;
+  color: white;
+  background-color: red;
+  margin-bottom: 20px;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  font-size: 20px;
+  padding : 1rem;
+
+  color: white;
+  background-color: red;
+  margin-bottom: 20px;
+}
